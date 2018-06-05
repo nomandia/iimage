@@ -1,7 +1,6 @@
 {
   "name": "nomandia/iimage",
   "description": "Simple picture upload toolkit.",
-  "type": "library",
   "require": {
     "php": "^7.1.0",
     "laravel/framework": "~5.5",
